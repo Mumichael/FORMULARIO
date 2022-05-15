@@ -1,0 +1,19 @@
+body {
+   
+	top: -100px;
+    padding: -90px;
+    margin: auto;
+    box-sizing: auto;
+    overflow: hidden;
+}
+ 
+input,span {
+    font-family: serif 10px;
+border-radius: 10px;
+opacity: 5px;
+
+}
+textarea{
+    resize: none;
+
+}
